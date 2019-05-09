@@ -10,7 +10,7 @@ Você deverá desenvolver uma aplicação para visualizar uma lista de filmes, s
 
 - Ao abrir o aplicativo, deve ser exibido uma tela onde o usuário tenha as opções de realizar o login ou realizar o seu cadastro **(Caso o usuário esteja logado ao abrir a aplicação, não será necessário exibir esta tela novamente)**.
 - O menu do aplicativo deve conter: lista de filmes e filmes favoritos. 
-- Após o usuário passar pela fase de autenticação, deve ser exibida uma tela com a listagem dos filmes mais populares da base de dados. (https://www.themoviedb.org/documentation/api). **Veja no site como ter acesso ao serviço de listagem de filmes**.
+- Após o usuário passar pela fase de autenticação, deve ser exibida uma tela com a listagem dos filmes mais populares da base de dados. (https://developers.themoviedb.org/3/getting-started/introduction). **Veja no site como ter acesso ao serviço de listagem de filmes**.
 - Quando o usuário selecionar um filme na listagem, deve ser exibido em outra tela os detalhes deste filme. Os detalhes são: **título, imagem e descrição/sinopse**. 
 - Na tela de detalhes do filme, o usuário se desejar poderá marcar o filme como favorito ou removê-lo dos favoritos.
 - Na tela de filmes favoritos, o usuário deve poder remover algum filme favoritado ou quando o usuário selecionar um filme na listagem, deve ser exibido em outra tela os detalhes deste filme.
