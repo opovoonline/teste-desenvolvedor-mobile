@@ -12,15 +12,15 @@ Você deverá desenvolver uma aplicação para visualizar uma lista de filmes, s
 - O menu do aplicativo deve conter: lista de filmes e filmes favoritos. 
 - Após o usuário passar pela fase de autenticação, deve ser exibida uma tela com a listagem dos filmes mais populares da base de dados. (https://www.themoviedb.org/documentation/api). **Veja no site como ter acesso ao serviço de listagem de filmes**.
 - Quando o usuário selecionar um filme na listagem, deve ser exibido em outra tela os detalhes deste filme. Os detalhes são: **título, imagem e descrição/sinopse**. 
-- Na tela de detalhes do filme, o usuário se desejar poderá marcar o filme como favorito ou remove-lo dos favoritos.
+- Na tela de detalhes do filme, o usuário se desejar poderá marcar o filme como favorito ou removê-lo dos favoritos.
 - Na tela de filmes favoritos, o usuário deve poder remover algum filme favoritado ou quando o usuário selecionar um filme na listagem, deve ser exibido em outra tela os detalhes deste filme.
 
 ### Requisitos técnicos
 
 O app deverá ser desenvolvido para a plataforma **Android ou iOS**
 
-- Caso opte por **Android** devéra utilizar **Java ou Kotlin**.
-- Caso opte por **iOS** devéra utilizar **Swift ou Objective - C**.
+- Caso opte por **Android** deverá utilizar **Java ou Kotlin**.
+- Caso opte por **iOS** deverá utilizar **Swift ou Objective - C**.
 - Utilizar o **git** para **versionamento do código**.
 - **Consulta REST** do themoviedb para obtenção dos dados.
 - **Persistência** dos dados (Persistir favoritos).
